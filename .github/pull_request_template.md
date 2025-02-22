@@ -25,4 +25,10 @@ Ensure you can check all the boxes:
 - [ ] **Description**: Maximum of 100 characters.
 - [ ] **Security Policy**: Hyperlinked to the security policy in the source repo of the Action.
 
+#### Ensure your entry is in the correct located (sorted alphabetically):
+
+- [ ] **Category**: The entry is located with other entries of the same category. If the entry is the first for its category, ensure it is in the correct alphabetical order among the other categories.
+- [ ] **Partner**: The entry is located with other entries of the same partner. If the entry is the first for the partner, ensure it is in the correct alphabetical order among the other partners.
+- [ ] **Action**: Ensure the action is in the correct alphabetical order among the other actions for the given category & partner.
+
 By submitting this PR, you acknowledge that you have checked off all boxes and followed the [contribution guidelines](contributing.md).

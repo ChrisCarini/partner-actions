@@ -28,6 +28,12 @@ Before you proceed, make sure to read our [Contributor Code of Conduct](.github/
 |Security|XYZ Corp|[Android Builder](https://github.com/xyz-corp/android-builder)|A powerful Android build automation tool|[Security Policy](https://github.com/xyz-corp/android-builder/blob/main/SECURITY.md)|
 ```
 
+
+### Ordering
+
+The Partner Actions table is sorted alphabetically by category, then Partner, then Action. Please ensure your submission is sorted in the correct place.
+
+
 ### Submission Criteria for Each Field
 
 <details>
